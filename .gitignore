@@ -1,0 +1,10 @@
+*.lyx~
+*.fls
+*.log
+*.fdb_latexmk
+*.synctex.gz
+\#**\#
+*.aux
+*.kate-swp
+*.out
+*.zip
